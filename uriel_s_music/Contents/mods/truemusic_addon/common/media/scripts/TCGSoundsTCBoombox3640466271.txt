@@ -1,0 +1,5035 @@
+module Tsarcraft
+{
+    sound Cassette2PacAllEyezOnMe
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/2Pac - All Eyez On Me.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound Cassette2PacCaliforniaLoveOriginalVersion
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/2Pac - California Love (Original Version).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound Cassette50CentCandyShop
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/50 Cent - Candy Shop.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteACDCBackInBlack
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/AC_DC - Back In Black.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteACDCHighwaytoHell
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/AC_DC - Highway to Hell.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteACDCYouShookMeAllNightLong
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/AC_DC - You Shook Me All Night Long.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteaespaWhiplash
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/aespa - Whiplash.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteAgarrateCatalinaLaViolencia
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Agarrate Catalina - La Violencia.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteALISONLifted
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/A.L.I.S.O.N - Lifted.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteAntonioCarlosJobimGarotaDeIpanema
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Antonio Carlos Jobim - Garota De Ipanema.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteAntonioCarlosJobimWave
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Antonio Carlos Jobim - Wave.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteArianaGrande7rings
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Ariana Grande - 7 rings.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteArianaGrandethankunext
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Ariana Grande - thank u next.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteAviciiDerezzedRemixedbyAvicii
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Avicii - Derezzed (Remixed by Avicii).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBeegieAdairMisty
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Beegie Adair - Misty.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBeegieAdairUnforgettable
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Beegie Adair - Unforgettable.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBeyonceCrazyInLovefeatJAYZ
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Beyonce - Crazy In Love (feat. JAY-Z).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBeyonceSingleLadies
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Beyonce - Single Ladies.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBlackEyedPeasDontPhunkWithMyHeart
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Black Eyed Peas - Don't Phunk With My Heart.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBlackEyedPeasMyHumps
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Black Eyed Peas - My Humps.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBlackEyedPeasPumpIt
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Black Eyed Peas - Pump It.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBlackEyedPeasShutUp
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Black Eyed Peas - Shut Up.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBreakbotBabyImYoursfeatIrfane
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Breakbot - Baby I'm Yours (feat. Irfane).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBritneySpearsGimmeMore
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Britney Spears - Gimme More.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBritneySpearsOopsIDidItAgain
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Britney Spears - Oops!...I Did It Again.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteC2CDelta
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/C2C - Delta.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteCalle13BaileDeLosPobres
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Calle 13 - Baile De Los Pobres.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteCalle13DigoLoQuePienso
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Calle 13 - Digo Lo Que Pienso.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteCalle13Latinoamerica
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Calle 13 - Latinoamerica.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteCalle13VamoAPortarnosMal
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Calle 13 - Vamo' A Portarnos Mal.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteCamelPhatSpektrumfeatAliLove
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/CamelPhat - Spektrum (feat. Ali Love).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteCaravanPalaceLoneDigger
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Caravan Palace - Lone Digger.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteCharlyGarciaBuscandounSimbolodePaz
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Charly Garcia - Buscando un Simbolo de Paz.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteCharlyGarciaNosSiguenPegandoAbajo
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Charly Garcia - Nos Siguen Pegando Abajo.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteCharlyGarciaNoVoyenTren
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Charly Garcia - No Voy en Tren.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteChebRayanGoloulmama
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Cheb Rayan - Golou lmama.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteChicoRoseSomebodysWatchingMe
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Chico Rose - Somebody's Watching Me.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteCoolioGangstasParadise
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Coolio - Gangsta's Paradise.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteCrystalWatersGypsyWomanShesHomelessLaDaDeeLaDaDaBasementBoyStripToTheBoneMix
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Crystal Waters - Gypsy Woman (She's Homeless) (La Da Dee La Da Da) (Basement Boy Strip To The Bone Mix).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDabeullDayNight
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Dabeull - Day & Night.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDabeullDontForgetIt
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Dabeull - Don't Forget It.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDabeullDX7Indastudio10
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Dabeull - DX7 (Indastudio 10).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDabeullDX7
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Dabeull - DX7.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDabeullGlitterFonk
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Dabeull - Glitter Fonk.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDabeullMessagesfromtheStars
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Dabeull - Messages from the Stars.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDabeullNewOrder
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Dabeull - New Order.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDabeullTouch
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Dabeull - Touch.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDabeullYouI
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Dabeull - You & I.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkArenaRemixedbyTheJapanesePopstars
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Arena (Remixed by The Japanese Popstars).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkDerezzedRemixedbyTheGlitchMob
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Derezzed (Remixed by The Glitch Mob).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkEncomPart2RemixedbyComTruise
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Encom Part 2 (Remixed by Com Truise).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkEndofLineRemixedbyBoysNoize
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - End of Line (Remixed by Boys Noize).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkFacetoFace
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Face to Face.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkFallRemixedbyM83VSBigBlackDelta
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Fall (Remixed by M83 VS Big Black Delta).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkGiorgiobyMoroder
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Giorgio by Moroder.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkHarderBetterFasterStronger
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Harder Better Faster Stronger.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkHumanAfterAll
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Human After All.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkInstantCrushfeatJulianCasablancas
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Instant Crush (feat. Julian Casablancas).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkMotherboard
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Motherboard.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkNightvision
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Nightvision.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkRobotRock
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Robot Rock.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkShortCircuit
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Short Circuit.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkSolarSailerRemixedbyPrettyLights
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Solar Sailer (Remixed by Pretty Lights).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkSomethingAboutUs
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Something About Us.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkTechnologic
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Technologic.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkTelevisionRulestheNation
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Television Rules the Nation.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkThePrimeTimeofYourLife
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - The Prime Time of Your Life.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkTheSonofFlynnRemixedbyKiTheory
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - The Son of Flynn (Remixed by Ki_Theory).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkVeridisQuo
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Veridis Quo.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkVoyager
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Voyager.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDamasGratisQuierenbajarme
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Damas Gratis - Quieren bajarme.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDariusEspoir
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Darius - Espoir.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDariusHotHands
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Darius - Hot Hands.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDariusOmeo
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Darius - Omeo.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDariusSash
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Darius - S_ash.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDariusVanyll
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Darius - Vanyll.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDeLaGhettoSensacionDelBloque
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/De La Ghetto - Sensacion Del Bloque.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDisturbingThaPeaceMoveBitch
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Disturbing Tha Peace - Move Bitch.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDMXXGonGiveItToYa
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/DMX - X Gon' Give It To Ya.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDojaCatSaySo
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Doja Cat - Say So.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDojaCatWoman
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Doja Cat - Woman.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDonOmarEllaYYoFeaturingDonOmar
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Don Omar - Ella Y Yo (Featuring Don Omar).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDonOmarVirtualDiva
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Don Omar - Virtual Diva.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDrDreNuthinButAGThang
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Dr. Dre - Nuthin' But A _G_ Thang.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDrDreStillDRE
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Dr. Dre - Still D.R.E..ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteElectricGuestTroubleman
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Electric Guest - Troubleman.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteElectricLightOrchestraLastTraintoLondon
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Electric Light Orchestra - Last Train to London.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteEliFurYoureSoHigh
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Eli & Fur - You're So High.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteElisReginaAguasDeMarco
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Elis Regina - Aguas De Marco.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteEminemRapGod
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Eminem - Rap God.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteEminemTheRealSlimShady
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Eminem - The Real Slim Shady.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteEminemWithoutMe
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Eminem - Without Me.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteEuropeTheFinalCountdown
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Europe - The Final Countdown.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteEurythmicsSweetDreamsAreMadeofThis2005Remaster
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Eurythmics - Sweet Dreams (Are Made of This) (2005 Remaster).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteEvanescenceBringMeToLife
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Evanescence - Bring Me To Life.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteFIFTYFIFTYCupid
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/FIFTY FIFTY - Cupid.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteFISHERLosingIt
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/FISHER - Losing It.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteFISHERStopIt
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/FISHER - Stop It.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteFleurieBreathe
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Fleurie - Breathe.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGiorgioMoroderRightHereRightNowfeatKylieMinogue
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Giorgio Moroder - Right Here Right Now (feat. Kylie Minogue).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGiorgioMoroderTomsDinerfeatBritneySpears
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Giorgio Moroder - Tom's Diner (feat. Britney Spears).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGloriaGaynorIWillSurvive
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gloria Gaynor - I Will Survive.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGorillazClintEastwood
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gorillaz - Clint Eastwood.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGorillazDAREfeatShaunRyderRosesGabor
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gorillaz - DARE (feat. Shaun Ryder & Roses Gabor).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGorillazFeelGoodInc
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gorillaz - Feel Good Inc..ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGotyeSevenHoursWithABackseatDriver
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gotye - Seven Hours With A Backseat Driver.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGotyeStateOfTheArt
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gotye - State Of The Art.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGroverWashingtonJrJusttheTwoofUsfeatBillWithers
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Grover Washington Jr. - Just the Two of Us (feat. Bill Withers).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGunsNRosesParadiseCity
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Guns N' Roses - Paradise City.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGunsNRosesSweetChildOMine
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Guns N' Roses - Sweet Child O' Mine.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGunsNRosesWelcomeToTheJungle
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Guns N' Roses - Welcome To The Jungle.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGustavoCeratiAdios
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gustavo Cerati - Adios.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGustavoCeratiCosasImposibles
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gustavo Cerati - Cosas Imposibles.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGustavoCeratiCrimen
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gustavo Cerati - Crimen.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGustavoCeratiPuente
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gustavo Cerati - Puente.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteHaddawayWhatIsLove7Mix
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Haddaway - What Is Love (7_ Mix).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteHerbieHancockRockit
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Herbie Hancock - Rockit.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteILLITMagnetic
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/ILLIT - Magnetic.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteImagineDragonsEnemy
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Imagine Dragons - Enemy.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteImagineDragonsEnemywithJID
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Imagine Dragons - Enemy (with JID).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteJamiroquaiCosmicGirlRemastered2013
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Jamiroquai - Cosmic Girl (Remastered 2013).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteJamiroquaiSpaceCowboy
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Jamiroquai - Space Cowboy.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteJamiroquaiTalullah
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Jamiroquai - Talullah.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteJamiroquaiVirtualInsanityRemastered2013
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Jamiroquai - Virtual Insanity (Remastered 2013).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteJeanToniqueUnreveadeux
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Jean Tonique - Un reve a deux.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteJesseBrown89AladeenMadafakaOriginal
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Jesse Brown 89 - Aladeen Madafaka - Original.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteJohnColtraneNaima
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/John Coltrane - Naima.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteKaliUchisAfterTheStorm
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Kali Uchis - After The Storm.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteKaliUchisDeadToMe
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Kali Uchis - Dead To Me.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteKaliUchisMoonlight
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Kali Uchis - Moonlight.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteKaliUchistelepatia
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Kali Uchis - telepatia.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteKaliUchisYourTeethInMyNeck
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Kali Uchis - Your Teeth In My Neck.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteKaskadeRinzlerRemixedbyKaskade
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Kaskade - Rinzler (Remixed by Kaskade).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteKAYTRANADAWhatYouNeedfeatCharlotteDayWilson
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/KAYTRANADA - What You Need (feat. Charlotte Day Wilson).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteKylieMinogueInYourEyes
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Kylie Minogue - In Your Eyes.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLaBoucheSweetDreams
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/La Bouche - Sweet Dreams.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLaRengaBaladaDelDiabloyLaMuerte
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/La Renga - Balada Del Diablo y La Muerte.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLaRengaCuandoEstesAca
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/La Renga - Cuando Estes Aca.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLaRengaElRevelde
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/La Renga - El Revelde.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLaRengaEnElBaldio
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/La Renga - En El Baldio.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLaRengaPanicShow
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/La Renga - Panic Show.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLauraShigiharaBrainiacManiac
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Laura Shigihara - Brainiac Maniac.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLauraShigiharaCerebrawl
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Laura Shigihara - Cerebrawl.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLauraShigiharaCrazyDaveInGame
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Laura Shigihara - Crazy Dave (In-Game).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLauraShigiharaGrasswalkInGame
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Laura Shigihara - Grasswalk (In-Game).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLauraShigiharaGrasswalk
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Laura Shigihara - Grasswalk.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLauraShigiharaGrazetheRoof
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Laura Shigihara - Graze the Roof.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLauraShigiharaLoonboon
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Laura Shigihara - Loonboon.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLauraShigiharaMoongrains
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Laura Shigihara - Moongrains.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLauraShigiharaRigorMormist
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Laura Shigihara - Rigor Mormist.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLauraShigiharaUltimateBattle
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Laura Shigihara - Ultimate Battle.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLauraShigiharaUraniwaNiZombiesGa
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Laura Shigihara - Uraniwa Ni Zombies Ga!.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLauraShigiharaWateryGravesFastVersion
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Laura Shigihara - Watery Graves (Fast Version).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLauraShigiharaWateryGravesSlowVersion
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Laura Shigihara - Watery Graves (Slow Version).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLauraShigiharaZenGarden
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Laura Shigihara - Zen Garden.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLauraShigiharaZombiesonYourLawn
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Laura Shigihara - Zombies on Your Lawn.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLeonGiecoBandidosRurales
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Leon Gieco - Bandidos Rurales.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLeonGiecoElAngelDeLaBicicleta
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Leon Gieco - El Angel De La Bicicleta.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLeonGiecoLosSalierisDeCharly
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Leon Gieco - Los Salieris De Charly.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLeonGiecoOjoConLosOrozco
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Leon Gieco - Ojo Con Los Orozco.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLImperatriceAnomaliebleue
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/L'Imperatrice - Anomalie bleue.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLImperatriceDigitalSunset
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/L'Imperatrice - Digital Sunset.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLImperatriceFou
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/L'Imperatrice - Fou.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLImperatriceOfftotheSide
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/L'Imperatrice - Off to the Side.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLImperatricePeurdesfilles
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/L'Imperatrice - Peur des filles.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLImperatriceTombeepourlascene
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/L'Imperatrice - Tombee pour la scene.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLImperatriceVoodoo
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/L'Imperatrice - Voodoo.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLinkinParkFaint
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Linkin Park - Faint.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLosAbuelosDeLaNadaMilHoras
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Los Abuelos De La Nada - Mil Horas.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLosEnanitosVerdesLamentoBoliviano
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Los Enanitos Verdes - Lamento Boliviano.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLouisArmstrongLavieenrose
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Louis Armstrong - La vie en rose.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLucaDebonaireBeMyLoverBlockCrownNuDiscoRadioEdit
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Luca Debonaire - Be My Lover (Block & Crown Nu Disco Radio Edit).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMadonnaSorry
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Madonna - Sorry.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteManalJugodeTomate
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Manal - Jugo de Tomate.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMarcosValleSambaDeVerao
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Marcos Valle - Samba De Verao.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMCHammerUCantTouchThis
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/MC Hammer - U Can't Touch This.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMemorexMemoriesCuriousAlice
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Memorex Memories - Curious Alice.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMemorexMemoriesPicturesofPurpleSkies
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Memorex Memories - Pictures of Purple Skies.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMenITrustHardtoLetGo
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Men I Trust - Hard to Let Go.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMetallicaNothingElseMatters
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Metallica - Nothing Else Matters.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMichaelHunterGrandTheftAutoSanAndreasOfficialThemeSong
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Michael Hunter - Grand Theft Auto_ San Andreas (Official Theme Song).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMichaelJacksonBeatIt
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Michael Jackson - Beat It.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMichaelJacksonBillieJean
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Michael Jackson - Billie Jean.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMichaelJacksonDontStopTilYouGetEnough
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Michael Jackson - Don't Stop 'Til You Get Enough.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMichaelJacksonRemembertheTime
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Michael Jackson - Remember the Time.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMichaelJacksonSmoothCriminal2012Remaster
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Michael Jackson - Smooth Criminal (2012 Remaster).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMichaelJacksonThriller
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Michael Jackson - Thriller.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMirandaDon
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Miranda! - Don.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMirandaHola
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Miranda! - Hola.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMirandaPerfecta
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Miranda! - Perfecta.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMirandaTraicion
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Miranda! - Traicion.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMobyTheSonofFlynnRemixedbyMoby
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Moby - The Son of Flynn (Remixed by Moby).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteNellyFurtadoPromiscuous
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Nelly Furtado - Promiscuous.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteNellyFurtadoSayItRight
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Nelly Furtado - Say It Right.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteNewJeansBubbleGum
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/NewJeans - Bubble Gum.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteNewJeansHurt
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/NewJeans - Hurt.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteNewJeansNewJeans
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/NewJeans - New Jeans.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteNewJeansOMG
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/NewJeans - OMG.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteNewJeansSuperShy
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/NewJeans - Super Shy.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteNightClubShowIt2Me
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Night Club - Show It 2 Me.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteOnceTirosLacanao
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Once Tiros - Lacanao.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteOutkastMsJackson
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Outkast - Ms. Jackson.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteOutkastSoFreshSoClean
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Outkast - So Fresh So Clean.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassettePatricioReyysusRedonditosdeRicotaJiJiJi
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Patricio Rey y sus Redonditos de Ricota - Ji Ji Ji.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassettePatricioReyysusRedonditosdeRicotaMiPerroDinamita
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Patricio Rey y sus Redonditos de Ricota - Mi Perro Dinamita.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassettePatricioReyysusRedonditosdeRicotaVencedoresVencidos
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Patricio Rey y sus Redonditos de Ricota - Vencedores Vencidos.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassettePaulOakenfoldCLURemixedbyPaulOakenfold
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Paul Oakenfold - C.L.U. (Remixed by Paul Oakenfold).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassettePhilFuldnerThatGirl
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Phil Fuldner - That Girl.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassettePhotekEndofLineRemixedbyPhotek
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Photek - End of Line (Remixed by Photek).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassettePibesChorrosDuraznito
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Pibes Chorros - Duraznito.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassettePuredeepIllustrious
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Puredeep - Illustrious.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassettePuredeepLiquid
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Puredeep - Liquid.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassettePuredeepWeightless
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Puredeep - Weightless.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteQueenAnotherOneBitesTheDustRemastered2011
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Queen - Another One Bites The Dust (Remastered 2011).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteQueenBohemianRhapsodyRemastered2011
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Queen - Bohemian Rhapsody (Remastered 2011).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteQueenCrazyLittleThingCalledLoveRemastered2011
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Queen - Crazy Little Thing Called Love (Remastered 2011).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteQueenDontStopMeNowRemastered2011
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Queen - Don't Stop Me Now (Remastered 2011).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteQueenIWantToBreakFreeRemastered2011
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Queen - I Want To Break Free (Remastered 2011).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteQueenRadioGaGaRemastered2011
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Queen - Radio Ga Ga (Remastered 2011).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteQueenSomebodyToLove2011Remaster
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Queen - Somebody To Love (2011 Remaster).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteQueenUnderPressureRemastered2011
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Queen - Under Pressure (Remastered 2011).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteQueenWeWillRockYouRemastered2011
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Queen - We Will Rock You (Remastered 2011).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteRammsteinAmerika
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Rammstein - Amerika.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteRammsteinDuhast
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Rammstein - Du hast.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteRammsteinFeuerfrei
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Rammstein - Feuer frei!.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteRammsteinRadio
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Rammstein - Radio.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteRammsteinSonne
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Rammstein - Sonne.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteRataBlancaLaLeyendaDelHadaYElMago
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Rata Blanca - La Leyenda Del Hada Y El Mago.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteRataBlancaMujerAmante
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Rata Blanca - Mujer Amante.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteRedHotChiliPeppersDaniCalifornia
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Red Hot Chili Peppers - Dani California.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteRedHotChiliPeppersDarkNecessities
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Red Hot Chili Peppers - Dark Necessities.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteRhythmStarzNuthinButaGThang
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Rhythm Starz - Nuthin' But a 'G' Thang.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteRihannaDontStopTheMusic
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Rihanna - Don't Stop The Music.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteRihannaOnlyGirl
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Rihanna - Only Girl.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteRihannaSM
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Rihanna - S&M.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteRihannaSOSAlbumVersion
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Rihanna - SOS (Album Version).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteRihannaSOS
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Rihanna - SOS.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteRoadDemonzWelcometotheJungle
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Road Demonz - Welcome to the Jungle.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteRobDouganClubbedToDeathKurayaminoMix
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Rob Dougan - Clubbed To Death ((Kurayamino Mix)).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSanderKleinenbergTRONLegacyEndTitlesRemixedbySanderKleinenberg
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Sander Kleinenberg - TRON Legacy (End Titles) (Remixed by Sander Kleinenberg).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteScaryPocketsHarderBetterFasterStronger
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Scary Pockets - Harder Better Faster Stronger.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSelenaGomezComeGetIt
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Selena Gomez - Come & Get It.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSelenaGomezLoveYouLikeALoveSong
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Selena Gomez - Love You Like A Love Song.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSergioMendesBrasil66MaisQueNada
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Sergio Mendes & Brasil '66 - Mais Que Nada.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSergioMendesMasQueNada
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Sergio Mendes - Mas Que Nada.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteShakiraCantRemembertoForgetYou
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Shakira - Can't Remember to Forget You.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteShakiraHipsDontLiefeatWyclefJean
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Shakira - Hips Don't Lie (feat. Wyclef Jean).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteShakiraHipsDontLie
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Shakira - Hips Don't Lie.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSharonJonesTheDapKingsHowLongDoIHavetoWaitforYou
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Sharon Jones & The Dap-Kings - How Long Do I Have to Wait for You.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoDeMusicaLigera
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - De Musica Ligera.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoEnLaCiudadDeLaFuria
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - En La Ciudad De La Furia.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoEntreCanibales
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Entre Canibales.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoNadaPersonal
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Nada Personal.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoPersianaAmericana
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Persiana Americana.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoProfugos
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Profugos.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoSobredosisdeTV
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Sobredosis de TV.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoTratameSuavemente
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Tratame Suavemente.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteStromaeAlorsondanse
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Stromae - Alors on danse.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteStromaeMaMeilleureEnnemie
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Stromae - Ma Meilleure Ennemie.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteStromaePapaoutai
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Stromae - Papaoutai.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSUNMINoir
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/SUNMI - Noir.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSupermerk2QueCalor
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Supermerk2 - Que Calor.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSupermerk2Resaka
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Supermerk2 - Resaka.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSurvivorEyeoftheTiger
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Survivor - Eye of the Tiger.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSystemOfADownAerials
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/System Of A Down - Aerials.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSystemOfADownChopSuey
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/System Of A Down - Chop Suey!.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSystemOfADownToxicity
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/System Of A Down - Toxicity.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTeddybearsAdagioforTRONRemixedbyTeddybears
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Teddybears - Adagio for TRON (Remixed by Teddybears).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTheCrystalMethodTheGridRemixedbyTheCrystalMethod
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/The Crystal Method - The Grid (Remixed by The Crystal Method).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTheFanaticsHoldtheLine
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/The Fanatics - Hold the Line.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTheNotoriousBIGBigPoppa2005Remaster
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/The Notorious B.I.G. - Big Poppa (2005 Remaster).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTheNotoriousBIGHypnotize2007Remaster
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/The Notorious B.I.G. - Hypnotize (2007 Remaster).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteThePussycatDollsDontCha
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/The Pussycat Dolls - Don't Cha.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTheRollingStonesPaintItBlack
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/The Rolling Stones - Paint It Black.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTheWeatherGirlsItsRainingMen
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/The Weather Girls - It's Raining Men.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTheWeekndBlindingLights
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/The Weeknd - Blinding Lights.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTheWeekndIFeelItComing
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/The Weeknd - I Feel It Coming.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTheWeekndSaveYourTears
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/The Weeknd - Save Your Tears.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTheWhiteStripesSevenNationArmy
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/The White Stripes - Seven Nation Army.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTimbalandTheWayIAre
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Timbaland - The Way I Are.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTylerTheCreatorEARFQUAKE
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tyler The Creator - EARFQUAKE.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTylerTheCreatorSeeYouAgainfeatKaliUchis
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tyler The Creator - See You Again (feat. Kali Uchis).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteVanHalenJump
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Van Halen - Jump.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteViejasLocasHomero
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Viejas Locas - Homero.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteViejasLocasLegalicenla
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Viejas Locas - Legalicenla.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteViejasLocasLoArtesanal
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Viejas Locas - Lo Artesanal.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteViejasLocasMeGustasMucho
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Viejas Locas - Me Gustas Mucho.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteViejasLocasPerra
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Viejas Locas - Perra.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteViejasLocasTodoSigueIgual
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Viejas Locas - Todo Sigue Igual.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteVXLLAINCrystalSkies
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/VXLLAIN - Crystal Skies.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteVXLLAINIllfindyou
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/VXLLAIN - I'll find you.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteVXLLAINItsafineday
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/VXLLAIN - It's a fine day.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteWILLOWWaitaMinute
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/WILLOW - Wait a Minute!.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteyeulePockyBoy
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/yeule - Pocky Boy.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteYoruYouGotMe
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Yoru - You Got Me.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteYungBaeWelcomeToTheDisco
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Yung Bae - Welcome To The Disco.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+}

@@ -1,0 +1,35 @@
+module CargoPantsContainer {
+    imports {
+    Base
+    }
+  
+    item CargoPantsContainer {
+        DisplayCategory  = Clothing,
+        ItemType         = base:container,
+        DisplayName      = Cargo Pants Container,
+        ClothingItem     = cargo_pants_container,
+        CanBeEquipped    = CargoPantsContainer,
+        BodyLocation     = Pants,
+        WeightReduction  = 80,
+        Weight           = 0.3,
+        Capacity         = 3,
+        Icon             = TrousersGhillie,
+        OpenSound        = OpenBag,
+        CloseSound       = CloseBag,
+        PutInSound       = PutItemInBag,
+        WorldStaticModel = Base.GhillieTrousers_Ground,
+        BiteDefense      = 10,
+        ScratchDefense   = 20,
+    }
+
+    craftRecipe Make_Cargo_Pants_Container {
+        inputs {
+      item 1 [Base.RippedSheets]
+        }
+
+        outputs {
+      item 1 [CargoPantsContainer.CargoPantsContainer]
+        }
+    Time:200.0,
+    }
+}

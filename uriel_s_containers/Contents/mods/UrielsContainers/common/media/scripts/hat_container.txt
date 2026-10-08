@@ -1,0 +1,35 @@
+module HatContainer {
+    imports {
+    Base
+    }
+
+    item HatContainer {
+        DisplayCategory     = Clothing,
+        ItemType            = base:container,
+        DisplayName         = Hat Container,
+        ClothingItem        = hat_container,
+        CanBeEquipped       = HatContainer,
+        BodyLocation        = Hat,
+        WeightReduction     = 90,
+        Weight              = 0.1,
+        Capacity            = 5,
+        Icon                = HatSummerYellow,
+        OpenSound           = OpenBag,
+        CloseSound          = CloseBag,
+        PutInSound          = PutItemInBag,
+        WorldStaticModel    = Base.BalaclavaFull_Ground,
+        AttachmentsProvided = HatContainerSlot,
+        RunSpeedModifier    = 0.9,
+    }
+  
+    craftRecipe Make_Hat_Container {
+        inputs {
+      item 1 [Base.RippedSheets;Base.Hat_SummerHat]
+        }
+
+        outputs {
+      item 1 [HatContainer.HatContainer]
+        }
+    Time:200.0,
+    }
+}

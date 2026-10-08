@@ -1,0 +1,6 @@
+version=1
+id=3640466271
+title=True Music Addon 1.05: *Uriel's Music*
+description=Random pop/rap/rock/reguetón music
+tags=Build 42
+visibility=public

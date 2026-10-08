@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+    <files>
+        <path>media/clothing/models_X/belt_container.xml</path>
+        <guid>be3b56dd-fd15-4a9d-af16-23dc10908a3c</guid>
+    </files>
+     <files>
+        <path>media/clothing/models_X/bulllets_bandolier_container.xml</path>
+        <guid>6810177e-d3a9-4bc4-a88f-b60633b6d885</guid>
+    </files>
+     <files>
+        <path>media/clothing/models_X/cargo_pants_container.xml</path>
+        <guid>fe883a29-4a04-4f4e-b58b-9afd6f2eff1e</guid>
+    </files>
+     <files>
+        <path>media/clothing/models_X/hat_container.xml</path>
+        <guid>b2252217-ceef-4a04-a942-8b46ad5d2ee0</guid>
+    </files>
+</fileGuidTable>

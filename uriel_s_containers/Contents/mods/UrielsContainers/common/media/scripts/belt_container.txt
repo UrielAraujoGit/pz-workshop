@@ -1,0 +1,35 @@
+module BeltContainer {
+    imports {
+    Base
+    }
+
+    item BeltContainer {
+        DisplayCategory     = Bag,
+        ItemType            = base:container,
+        DisplayName         = Belt Container,
+        ClothingItem        = belt_container,
+        CanBeEquipped       = BeltContainer,
+        WeightReduction     = 95,
+        Weight              = 0.3,
+        Capacity            = 15,
+        Icon                = GunHolsterDouble,
+        OpenSound           = OpenBag,
+        CloseSound          = CloseBag,
+        PutInSound          = PutItemInBag,
+        WorldStaticModel    = Base.Holster_Ground,
+        AttachmentsProvided = GarraLaPalaLeftSlot;SmallBeltRightSlot,
+        AcceptItemFunction  = UrielItemsAllowed.BeltContainer,
+    }
+  
+    craftRecipe Make_Belt_Container {
+        inputs {
+      item 1 [Base.Belt2],
+      item 5 [Base.RippedSheets;Base.RippedSheetsDirty;Base.DenimStrips;Base.DenimStripsDirty;Base.LeatherStrips;Base.LeatherStripsDirty],
+
+        }
+        outputs {
+          item 1 BeltContainer
+        }
+    Time:200.0,
+    }
+}
