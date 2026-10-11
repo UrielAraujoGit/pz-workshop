@@ -1,0 +1,16 @@
+
+module ToolPalaBeltModule {
+    item ToolPalaBeltContainer {
+        DisplayName         = Tool Pala Belt Container (default),
+        DisplayCategory     = Container,
+        ItemType            = base:container,
+        Weight              = 0.3,
+        Icon                = belt2,
+        CanBeEquipped       = Belt,
+        BodyLocation        = Belt,
+        Capacity            = 10,
+        WeightReduction     = 90,
+        AcceptItemFunction  = ToolPalaBelt,
+        AttachmentsProvided = SmallBeltRight;SmallBeltLeft,
+    }
+}
