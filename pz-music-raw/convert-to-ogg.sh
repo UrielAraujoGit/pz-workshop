@@ -35,7 +35,7 @@ echo "======================================"
 echo " Converting music to OGG"
 echo "======================================"
 
-for i in "$INPUT_DIR"/*.flac "$INPUT_DIR"/*.mp3; do
+for i in "$INPUT_DIR"/*.flac "$INPUT_DIR"/*.mp3 "$INPUT_DIR"/*.m4a; do
     # Skip if no matching files exist
     [ -e "$i" ] || continue
 
@@ -75,8 +75,6 @@ else
 fi
 
 new_version=$(printf "%d.%02d" "$major" "$minor")
-
-
 
 
 for version_file in "${version_files[@]}"; do

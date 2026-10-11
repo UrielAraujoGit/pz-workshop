@@ -765,6 +765,40 @@ module Tsarcraft
 
     }
 
+    sound CassetteCleaVincentSamba
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Clea Vincent - Samba.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteColdplayAdventureofaLifetime
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Coldplay - Adventure of a Lifetime.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteCoolioGangstasParadise
     {
 
@@ -1014,6 +1048,23 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Dabeull - You & I.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDaftPunkAerodynamic
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Daft Punk - Aerodynamic.ogg,
             distanceMax = 75,
 
         }
@@ -1751,6 +1802,23 @@ module Tsarcraft
 
     }
 
+    sound CassetteDWIGOrangeEvening
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/DWIG - Orange Evening.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteEarthWindFireLetsGroove
     {
 
@@ -2085,6 +2153,23 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Gloria Gaynor - I Will Survive.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGnarlsBarkleyCrazy
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gnarls Barkley - Crazy.ogg,
             distanceMax = 75,
 
         }

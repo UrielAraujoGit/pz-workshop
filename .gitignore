@@ -1,4 +1,16 @@
+# audio files
 *.mp3
 *.flac
 *.ogg
+*.m4a
+
+# folders
 .vscode/
+
+# WIP files
+pz-music-raw/fragmented-convert-to-ogg.sh
+pz-music-raw/utils/add-containers-distributions.sh
+pz-music-raw/utils/add-vehicle-distributions.sh
+pz-music-raw/utils/create-cassette-items.sh
+pz-music-raw/utils/create-sound.sh
+pz-music-raw/utils/create-music-definitions.sh
