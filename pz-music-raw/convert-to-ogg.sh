@@ -13,6 +13,8 @@ TCG_VEHICLE_DISTRIBUTIONS="$MOD_PATH/lua/server/Items/TCGVehicleDistributions${M
 TCG_CONTAINERS_DISTRIBUTIONS="$MOD_PATH/lua/server/Items/TCGLoadingTCBoombox${MOD_ID}.lua"
 TCG_MUSIC_DEFINITIONS_TCBOOMBOX="$MOD_PATH/lua/shared/TCGMusicDefenitionsTCBoombox${MOD_ID}.lua"
 
+LIST_OF_SONGS="./list_of_songs.txt"
+
 
 CONTAINERS=("CrateCompactDiscs" "ElectronicStoreMusic" "MusicStoreCDs" "MusicStoreSpeaker" "GymLockers" "OfficeDrawers" "WardrobeRedneck" "CrateCompactDiscs" "PoliceLockers" "WardrobeChild" "Hobbies" "HolidayStuff" "BedroomDresser" "FactoryLockers" "ClosetShelfGeneric" "CrateRandomJunk" "HospitalLockers" "SchoolLockers" "LivingRoomSideTable" "FitnessTrainer" "FireDeptLockers" "Gifts" "DeskGeneric" "LivingRoomShelf" "DresserGeneric" "Locker" "SecurityLockers" "ShelfGeneric" "PoliceDesk")
 
@@ -22,6 +24,7 @@ mkdir -p "$(dirname "$TCG_SOUNDS_TCBBOOMBOX_FILE")"
 mkdir -p "$(dirname "$TCG_VEHICLE_DISTRIBUTIONS")"
 mkdir -p "$(dirname "$TCG_CONTAINERS_DISTRIBUTIONS")"
 mkdir -p "$(dirname "$TCG_MUSIC_DEFINITIONS_TCBOOMBOX")"
+mkdir -p "$(dirname "$LIST_OF_SONGS")"
 
 echo "======================================"
 echo " Converting music to OGG"
@@ -105,6 +108,14 @@ for i in "$OUTPUT_DIR"/*.ogg; do
         continue
     fi
 
+    # ========================================================
+    # Add song to the list of songs 
+    # ========================================================
+
+    cat >> "$LIST_OF_SONGS" << EOF
+$filename
+EOF
+
     # Random number between 1 and 9
     tape_number=$(( RANDOM % 9 + 1 ))
 
@@ -161,7 +172,7 @@ EOF
 
     cat >> "$TCG_VEHICLE_DISTRIBUTIONS" << EOF
 table.insert(VehicleDistributions.GloveBox.items, "Tsarcraft.Cassette$item_name");
-table.insert(VehicleDistributions.GloveBox.items, 0.5);
+table.insert(VehicleDistributions.GloveBox.items, 0.2);
 EOF
 
 
@@ -172,7 +183,7 @@ EOF
 for container in "${CONTAINERS[@]}"; do
     cat >> "$TCG_CONTAINERS_DISTRIBUTIONS" << EOF
 table.insert(ProceduralDistributions.list["$container"].items, "Tsarcraft.Cassette$item_name");
-table.insert(ProceduralDistributions.list["$container"].items, 0.3);
+table.insert(ProceduralDistributions.list["$container"].items, 0.1);
 EOF
 done
 
