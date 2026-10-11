@@ -90,6 +90,12 @@ table.insert(VehicleDistributions.GloveBox.items, "Tsarcraft.CassetteChrisRainbo
 table.insert(VehicleDistributions.GloveBox.items, 0.2);
 table.insert(VehicleDistributions.GloveBox.items, "Tsarcraft.CassetteCoolioGangstasParadise");
 table.insert(VehicleDistributions.GloveBox.items, 0.2);
+table.insert(VehicleDistributions.GloveBox.items, "Tsarcraft.CassetteCreedenceClearwaterRevivalFortunateSon");
+table.insert(VehicleDistributions.GloveBox.items, 0.2);
+table.insert(VehicleDistributions.GloveBox.items, "Tsarcraft.CassetteCreedenceClearwaterRevivalGreenRiver");
+table.insert(VehicleDistributions.GloveBox.items, 0.2);
+table.insert(VehicleDistributions.GloveBox.items, "Tsarcraft.CassetteCreedenceClearwaterRevivalHaveYouEverSeenTheRain");
+table.insert(VehicleDistributions.GloveBox.items, 0.2);
 table.insert(VehicleDistributions.GloveBox.items, "Tsarcraft.CassetteCrystalWatersGypsyWomanShesHomelessLaDaDeeLaDaDaBasementBoyStripToTheBoneMix");
 table.insert(VehicleDistributions.GloveBox.items, 0.2);
 table.insert(VehicleDistributions.GloveBox.items, "Tsarcraft.CassetteCuttingCrewIJustDiedInYourArms");

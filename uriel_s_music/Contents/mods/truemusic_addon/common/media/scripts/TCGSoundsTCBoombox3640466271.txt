@@ -782,6 +782,57 @@ module Tsarcraft
 
     }
 
+    sound CassetteCreedenceClearwaterRevivalFortunateSon
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Creedence Clearwater Revival - Fortunate Son.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteCreedenceClearwaterRevivalGreenRiver
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Creedence Clearwater Revival - Green River.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteCreedenceClearwaterRevivalHaveYouEverSeenTheRain
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Creedence Clearwater Revival - Have You Ever Seen The Rain.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteCrystalWatersGypsyWomanShesHomelessLaDaDeeLaDaDaBasementBoyStripToTheBoneMix
     {
 

@@ -16,6 +16,11 @@ TCG_MUSIC_DEFINITIONS_TCBOOMBOX="$MOD_PATH/lua/shared/TCGMusicDefenitionsTCBoomb
 LIST_OF_SONGS="./list_of_songs.txt"
 
 
+WORKSHOP_TXT="./../uriel_s_music/workshop.txt"
+MOD_INFO="./../uriel_s_music/mod.info"
+MOD_CONTENTS_INFO="./../uriel_s_music/Contents/mods/truemusic_addon/common/mod.info"
+version_files=("$WORKSHOP_TXT" "$MOD_INFO" "$MOD_CONTENTS_INFO")
+
 CONTAINERS=("CrateCompactDiscs" "ElectronicStoreMusic" "MusicStoreCDs" "MusicStoreSpeaker" "GymLockers" "OfficeDrawers" "WardrobeRedneck" "CrateCompactDiscs" "PoliceLockers" "WardrobeChild" "Hobbies" "HolidayStuff" "BedroomDresser" "FactoryLockers" "ClosetShelfGeneric" "CrateRandomJunk" "HospitalLockers" "SchoolLockers" "LivingRoomSideTable" "FitnessTrainer" "FireDeptLockers" "Gifts" "DeskGeneric" "LivingRoomShelf" "DresserGeneric" "Locker" "SecurityLockers" "ShelfGeneric" "PoliceDesk")
 
 mkdir -p "$OUTPUT_DIR"
@@ -53,6 +58,44 @@ echo "======================================"
 echo " Generating Project Zomboid script"
 echo "======================================"
 
+
+#NEW VERSION NUMBER
+
+
+regex="True Music Addon \K[0-9]+\.[0-9]+(?=: \*Uriel's Music\*)"
+
+version=$(grep -oP "$regex" $WORKSHOP_TXT)
+IFS='.' read -r major minor <<< "$version"
+
+if (( 10#$minor < 99 )); then
+    minor=$((10#$minor + 1))
+else
+    major=$((10#$major + 1))
+    minor=0
+fi
+
+new_version=$(printf "%d.%02d" "$major" "$minor")
+
+
+
+
+for version_file in "${version_files[@]}"; do
+  if [[ -f "$version_file" ]]; then
+   sed -i "s/${version//./\\.}/${new_version}/g" "$version_file"
+
+    echo "Version file updated: $new_version $version_file"
+else
+    echo "Version file not found: $version $version_file"
+fi
+done
+
+echo ""
+echo "======================================"
+echo " New version $new_version"
+echo "======================================"
+
+
+
 # Generate file TCG_MUSIC_SCRIPT_TCBBOOMBOX_FILE
 cat > "$TCG_MUSIC_SCRIPT_TCBBOOMBOX_FILE" << 'EOF'
 module Tsarcraft
@@ -81,6 +124,10 @@ EOF
 cat > "$TCG_MUSIC_DEFINITIONS_TCBOOMBOX" << 'EOF'
 require "TCMusicDefenitions"
 
+EOF
+
+# Generate file LIST_OF_SONGS
+cat > "$LIST_OF_SONGS" << 'EOF'
 EOF
 
 # Generate file TCG_VEHICLE_DISTRIBUTIONS
