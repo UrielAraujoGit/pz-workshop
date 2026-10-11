@@ -1,6 +1,6 @@
-version=1.05
+version=1.07
 id=3640466271
-title=True Music Addon 1.05: *Uriel's Music*
-description=Random pop/rap/rock music
+title=True Music Addon 1.07: *Uriel's Music*
+description=list of songs https://github.com/UrielAraujoGit/pz-workshop/blob/main/pz-music-raw/list_of_songs.txt
 tags=Build 42
-visibility=public
+visibility=unlisted
