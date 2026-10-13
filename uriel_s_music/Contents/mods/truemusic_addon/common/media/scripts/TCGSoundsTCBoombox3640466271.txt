@@ -170,6 +170,40 @@ module Tsarcraft
 
     }
 
+    sound CassetteAlexandraStanMrSaxobeat
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Alexandra Stan - Mr Saxobeat.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteAlexGaudinofeatCrystalWatersDestinationCalabria
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Alex Gaudino feat Crystal Waters - Destination Calabria.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteALISONLifted
     {
 
@@ -317,6 +351,40 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Beegie Adair - Unforgettable.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBennyBenassiBeautifulPeople
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Benny Benassi - Beautiful People.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBennyBenassiSatisfaction
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Benny Benassi - Satisfaction.ogg,
             distanceMax = 75,
 
         }
@@ -476,6 +544,23 @@ module Tsarcraft
 
     }
 
+    sound CassetteBobSinclarWorldHoldOn
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Bob Sinclar - World Hold On.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteBosanskaartiljerija
     {
 
@@ -510,6 +595,23 @@ module Tsarcraft
 
     }
 
+    sound CassetteBritneySpearsBabyOneMoreTime
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Britney Spears - Baby One More Time.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteBritneySpearsGimmeMore
     {
 
@@ -538,6 +640,40 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Britney Spears - Oops!...I Did It Again.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBritneySpearsToxic
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Britney Spears - Toxic.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBritneySpearsWomanizer
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Britney Spears - Womanizer.ogg,
             distanceMax = 75,
 
         }
@@ -1649,6 +1785,91 @@ module Tsarcraft
 
     }
 
+    sound CassetteDavidGuettaGettinOver
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/David Guetta - Gettin' Over.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDavidGuettaICanOnlyImagine
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/David Guetta - I Can Only Imagine.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDavidGuettaMemories
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/David Guetta - Memories.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDavidGuettaSexyBitch
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/David Guetta - Sexy Bitch.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteDavidGuettaSnoopDoggSweat
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/David Guetta & Snoop Dogg - Sweat.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteDeLaGhettoSensacionDelBloque
     {
 
@@ -2091,6 +2312,23 @@ module Tsarcraft
 
     }
 
+    sound CassetteFloRidaLow
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Flo Rida - Low.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteGeorgeThorogoodTheDestroyersBadToTheBone
     {
 
@@ -2323,6 +2561,23 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Guns N' Roses - Welcome To The Jungle.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGuruJoshProjectInfinity2008
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Guru Josh Project - Infinity 2008.ogg,
             distanceMax = 75,
 
         }
@@ -2714,6 +2969,159 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Kaskade - Rinzler (Remixed by Kaskade).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteKatyPerryBonAppetit
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Katy Perry - Bon Appetit.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteKatyPerryCaliforniaGurls
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Katy Perry - California Gurls.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteKatyPerryDarkHorse
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Katy Perry - Dark Horse.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteKatyPerryDéjàVu
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Katy Perry - Déjà Vu.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteKatyPerryET
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Katy Perry - ET.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteKatyPerryHotNCold
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Katy Perry - Hot N Cold.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteKatyPerryIKissedAGirl
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Katy Perry - I Kissed A Girl.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteKatyPerryLastFridayNight
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Katy Perry - Last Friday Night.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteKatyPerrySwishSwish
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Katy Perry - Swish Swish.ogg,
             distanceMax = 75,
 
         }
@@ -3496,6 +3904,57 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Luca Debonaire - Be My Lover (Block & Crown Nu Disco Radio Edit).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMadonnaHungUp
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Madonna - Hung Up.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMadonnaLikeaVirgin
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Madonna - Like a Virgin.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMadonnaMaterialGirl
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Madonna - Material Girl.ogg,
             distanceMax = 75,
 
         }
@@ -5389,6 +5848,40 @@ module Tsarcraft
 
     }
 
+    sound CassetteTaylorSwiftLookWhatYouMadeMeDo
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Taylor Swift - Look What You Made Me Do.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTaylorSwiftWeAreNeverEverGettingBackTogether
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Taylor Swift - We Are Never Ever Getting Back Together.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteTeddybearsAdagioforTRONRemixedbyTeddybears
     {
 
@@ -5627,6 +6120,23 @@ module Tsarcraft
 
     }
 
+    sound CassetteTheWeekndStarboy
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/The Weeknd - Starboy.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteTheWhiteStripesSevenNationArmy
     {
 
@@ -5689,6 +6199,23 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Tyler The Creator - See You Again (feat. Kali Uchis).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteUSHERYeah
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/USHER - Yeah!.ogg,
             distanceMax = 75,
 
         }
@@ -5876,6 +6403,23 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Whitesnake - Is This Love.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassettewilliamScreamShout
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/will i am - Scream & Shout.ogg,
             distanceMax = 75,
 
         }

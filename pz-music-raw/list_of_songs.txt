@@ -8,6 +8,8 @@ AC_DC - You Shook Me All Night Long
 aespa - Whiplash
 A Flock Of Seagulls - I Ran (So Far Away)
 Agarrate Catalina - La Violencia
+Alexandra Stan - Mr Saxobeat
+Alex Gaudino feat Crystal Waters - Destination Calabria
 A.L.I.S.O.N - Lifted
 Andres Calamaro - Cartas Sin Marcar
 Antonio Carlos Jobim - Garota De Ipanema
@@ -17,6 +19,8 @@ Ariana Grande - thank u next
 Avicii - Derezzed (Remixed by Avicii)
 Beegie Adair - Misty
 Beegie Adair - Unforgettable
+Benny Benassi - Beautiful People
+Benny Benassi - Satisfaction
 Bersuit Vergarabat - Se Viene
 Beyonce - Crazy In Love (feat. JAY-Z)
 Beyonce - Single Ladies
@@ -26,10 +30,14 @@ Black Eyed Peas - Don't Phunk With My Heart
 Black Eyed Peas - My Humps
 Black Eyed Peas - Pump It
 Black Eyed Peas - Shut Up
+Bob Sinclar - World Hold On
 Bosanska artiljerija
 Breakbot - Baby I'm Yours (feat. Irfane)
+Britney Spears - Baby One More Time
 Britney Spears - Gimme More
 Britney Spears - Oops!...I Did It Again
+Britney Spears - Toxic
+Britney Spears - Womanizer
 C2C - Delta
 Calle 13 - Baile De Los Pobres
 Calle 13 - Digo Lo Que Pienso
@@ -95,6 +103,11 @@ Darius - Hot Hands
 Darius - Omeo
 Darius - S_ash
 Darius - Vanyll
+David Guetta - Gettin' Over
+David Guetta - I Can Only Imagine
+David Guetta - Memories
+David Guetta - Sexy Bitch
+David Guetta & Snoop Dogg - Sweat
 De La Ghetto - Sensacion Del Bloque
 Disturbing Tha Peace - Move Bitch
 DMX - X Gon' Give It To Ya
@@ -121,6 +134,7 @@ FIFTY FIFTY - Cupid
 FISHER - Losing It
 FISHER - Stop It
 Fleurie - Breathe
+Flo Rida - Low
 George Thorogood & The Destroyers - Bad To The Bone
 Giorgio Moroder - Right Here Right Now (feat. Kylie Minogue)
 Giorgio Moroder - Tom's Diner (feat. Britney Spears)
@@ -135,6 +149,7 @@ Grover Washington Jr. - Just the Two of Us (feat. Bill Withers)
 Guns N' Roses - Paradise City
 Guns N' Roses - Sweet Child O' Mine
 Guns N' Roses - Welcome To The Jungle
+Guru Josh Project - Infinity 2008
 Gustavo Cerati - Adios
 Gustavo Cerati - Cosas Imposibles
 Gustavo Cerati - Crimen
@@ -158,6 +173,15 @@ Kali Uchis - telepatia
 Kali Uchis - Your Teeth In My Neck
 Kansas - Carry on Wayward Son
 Kaskade - Rinzler (Remixed by Kaskade)
+Katy Perry - Bon Appetit
+Katy Perry - California Gurls
+Katy Perry - Dark Horse
+Katy Perry - Déjà Vu
+Katy Perry - ET
+Katy Perry - Hot N Cold
+Katy Perry - I Kissed A Girl
+Katy Perry - Last Friday Night
+Katy Perry - Swish Swish
 KAYTRANADA - What You Need (feat. Charlotte Day Wilson)
 Kylie Minogue - In Your Eyes
 La Bouche - Sweet Dreams
@@ -204,6 +228,9 @@ Los Enanitos Verdes - Lamento Boliviano
 Los Fabulosos Cadillacs & Celia Cruz - Vasos Vacíos
 Louis Armstrong - La vie en rose
 Luca Debonaire - Be My Lover (Block & Crown Nu Disco Radio Edit)
+Madonna - Hung Up
+Madonna - Like a Virgin
+Madonna - Material Girl
 Madonna - Sorry
 Manal - Jugo de Tomate
 Marcos Valle - Samba De Verao
@@ -315,6 +342,8 @@ Survivor - Eye of the Tiger
 System Of A Down - Aerials
 System Of A Down - Chop Suey!
 System Of A Down - Toxicity
+Taylor Swift - Look What You Made Me Do
+Taylor Swift - We Are Never Ever Getting Back Together
 Teddybears - Adagio for TRON (Remixed by Teddybears)
 The Crystal Method - The Grid (Remixed by The Crystal Method)
 The Fanatics - Hold the Line
@@ -329,10 +358,12 @@ The Weather Girls - It's Raining Men
 The Weeknd - Blinding Lights
 The Weeknd - I Feel It Coming
 The Weeknd - Save Your Tears
+The Weeknd - Starboy
 The White Stripes - Seven Nation Army
 Timbaland - The Way I Are
 Tyler The Creator - EARFQUAKE
 Tyler The Creator - See You Again (feat. Kali Uchis)
+USHER - Yeah!
 Van Halen - Jump
 Viejas Locas - Homero
 Viejas Locas - Legalicenla
@@ -344,6 +375,7 @@ VXLLAIN - Crystal Skies
 VXLLAIN - I'll find you
 VXLLAIN - It's a fine day
 Whitesnake - Is This Love
+will i am - Scream & Shout
 WILLOW - Wait a Minute!
 yeule - Pocky Boy
 Yoru - You Got Me
