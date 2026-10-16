@@ -1,5 +1,11 @@
 {
   "CargoPantsModule.CargoPantsContainer": "Cargo Pants Container",
+  "CargoPantsModule.MakeCargoPants": "Make Cargo Pants Container",
+  "CassetteBandolierModule.CassetteBandolier": "Cassette Bandolier",
+  "CassetteBandolierModule.MakeCassetteBandolier": "Make Cassette Bandolier",
+  "HatModule.HatContainer": "Hat Container",
+  "HatModule.MakeHatContainer": "Make Hat Container",
   "ToolPalaBeltModule.ToolPalaBeltContainer": "Tool Pala Belt Container",
-  "HatModule.HatContainer": "Hat Container"
+  "ToolPalaBeltModule.MakeToolPalaBelt": "Make Tool Pala Belt Container",
+  "ToolPalaBeltModule.MakeWearableFlashlight": "Make Wearable Flashlight"
 }

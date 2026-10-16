@@ -33,4 +33,21 @@ module ToolPalaBeltModule {
             item 1 ToolPalaBeltModule.ToolPalaBeltContainer,
         }
     }
+
+    craftRecipe MakeWearableFlashlight {
+
+        timedAction     = DismantleElectrical,
+        xpAward         = Electricity:20,
+        AllowBatchCraft = true,
+        category        = Electrical,
+        Time            = 100,
+        inputs {
+            item 1 tags[base:Screwdriver] mode:keep,
+            item 1 tags[base:flashlight],
+            item 1 [Base.ElectronicsScrap],
+        }
+        outputs {
+            item 1 Base.FlashLight_AngleHead,
+        }
+    }
 }
