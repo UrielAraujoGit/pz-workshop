@@ -14,4 +14,23 @@ module HatModule {
         Insulation      = 0.1,
         WindResistance  = 0.1,
     }
+
+    craftRecipe MakeHatContainer {
+
+        timedAction     = SewingCloth,
+        xpAward         = Tailoring:30,
+        AllowBatchCraft = true,
+        category        = Tailoring,
+        Time            = 200,
+        inputs {
+            item 1 tags[base:sewingneedle] mode:keep flags[MayDegradeLight],
+            item 1 [Base.Hat_StrawHat;Base.Hat_SummerHat;Base.Hat_SummerFlowerHat;Base.Hat_HideHat;Base.Hat_TarpHat],
+            item 1 [Base.Thread],
+            item 4 [Base.RippedSheets;Base.LeatherStrips;Base.DenimStrips],
+        }
+
+        outputs {
+            item 1 HatModule.HatContainer,
+        }
+    }
 }

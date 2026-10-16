@@ -19,4 +19,22 @@ module CargoPantsModule {
         Insulation      = 10,
         /* AttachmentsProvided = CargoPantsSlot, */
     }
+
+    craftRecipe MakeCargoPants {
+
+        timedAction     = SewingCloth,
+        xpAward         = Tailoring:30,
+        AllowBatchCraft = true,
+        category        = Tailoring,
+        Time            = 200,
+        inputs {
+            item 1 tags[base:sewingneedle] mode:keep flags[MayDegradeLight],
+            item 2 [Basse.Thread],
+            item 8 [Base.RippedSheets;Base.LeatherStrips;Base.DenimStrips;1:Base.Trousers;1:Base.Ghillie_Trousers;1:Base.Trousers_Denim;1:Base.Trousers_Fireman;1:Base.Trousers_Padded;1:Base.Trousers_Police;1:Base.Trousers_Sheriff],
+        }
+
+        outputs {
+            item 1 CargoPantsModule.CargoPantsContainer,
+        }
+    }
 }

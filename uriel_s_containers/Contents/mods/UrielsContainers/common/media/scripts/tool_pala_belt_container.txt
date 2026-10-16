@@ -13,4 +13,23 @@ module ToolPalaBeltModule {
         AcceptItemFunction  = ToolPalaBelt,
         AttachmentsProvided = SmallBeltRight;SmallBeltLeft,
     }
+
+    craftRecipe MakeToolPalaBelt {
+
+        timedAction     = SewingCloth,
+        xpAward         = Tailoring:30,
+        AllowBatchCraft = true,
+        category        = Tailoring,
+        Time            = 200,
+        inputs {
+            item 1 tags[base:sewingneedle] mode:keep flags[MayDegradeLight],
+            item 1 [Base.Belt2],
+            item 1 [Base.Thread],
+            item 4 [Base.LeatherStrips;Base.DenimStrips],
+        }
+
+        outputs {
+            item 1 ToolPalaBeltModule.ToolPalaBeltContainer,
+        }
+    }
 }
