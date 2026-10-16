@@ -24,9 +24,9 @@ module HatModule {
         Time            = 200,
         inputs {
             item 1 tags[base:sewingneedle] mode:keep flags[MayDegradeLight],
-            item 1 [Base.Hat_StrawHat;Base.Hat_SummerHat;Base.Hat_SummerFlowerHat;Base.Hat_HideHat;Base.Hat_TarpHat],
-            item 1 [Base.Thread],
-            item 4 [Base.RippedSheets;Base.LeatherStrips;Base.DenimStrips],
+            item 1 [Base.Hat_StrawHat;Base.Hat_SummerHat;Base.Hat_SummerFlowerHat;Base.Hat_HideHat;Base.Hat_TarpHat;3:Base.HayTuft] mode:destroy,
+            item 1 [Base.Thread] mode:destroy,
+            item 4 [Base.RippedSheets;Base.LeatherStrips;Base.DenimStrips] mode:destroy,
         }
 
         outputs {

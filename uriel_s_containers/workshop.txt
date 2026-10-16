@@ -1,6 +1,6 @@
 version=1
 id=3602951785
-title=Uriel's containers (version 1.1)
+title=Uriel's containers (version 1.2)
 description=just a collection of silly containers
 tags=Build 42;Clothing/Armor;Items
 visibility=public

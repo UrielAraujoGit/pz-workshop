@@ -4,20 +4,21 @@ module CargoPantsModule {
     }
   
     item CargoPantsContainer {
-        DisplayCategory = Clothing,
-        ItemType        = base:container,
-        DisplayName     = "Cargo Pants Container(default)",
-        CanBeEquipped   = Pants,
-        BodyLocation    = base:pants,
-        WeightReduction = 80,
-        Weight          = 0.3,
-        Capacity        = 3,
-        ClothingItem    = Ghillie_Trousers,
-        Icon            = TrousersGhillie,
-        BiteDefense     = 10,
-        ScratchDefense  = 20,
-        Insulation      = 10,
-        /* AttachmentsProvided = CargoPantsSlot, */
+        DisplayCategory     = Clothing,
+        ItemType            = base:container,
+        DisplayName         = "Cargo Pants Container(default)",
+        CanBeEquipped       = Pants,
+        BodyLocation        = base:pants,
+        WeightReduction     = 80,
+        Weight              = 0.3,
+        Capacity            = 3,
+        ClothingItem        = Ghillie_Trousers,
+        Icon                = cargo_pants_icon,
+        /* WorldObjectSprite   = cargo_pants_sprite, */
+        BiteDefense         = 10,
+        ScratchDefense      = 20,
+        Insulation          = 10,
+        AttachmentsProvided = HolsterAnkle,
     }
 
     craftRecipe MakeCargoPants {
@@ -29,8 +30,8 @@ module CargoPantsModule {
         Time            = 200,
         inputs {
             item 1 tags[base:sewingneedle] mode:keep flags[MayDegradeLight],
-            item 2 [Basse.Thread],
-            item 8 [Base.RippedSheets;Base.LeatherStrips;Base.DenimStrips;1:Base.Trousers;1:Base.Ghillie_Trousers;1:Base.Trousers_Denim;1:Base.Trousers_Fireman;1:Base.Trousers_Padded;1:Base.Trousers_Police;1:Base.Trousers_Sheriff],
+            item 2 [Basse.Thread] mode:destroy,
+            item 8 [Base.RippedSheets;Base.LeatherStrips;Base.DenimStrips;1:Base.Trousers;1:Base.Ghillie_Trousers;1:Base.Trousers_Denim;1:Base.Trousers_Fireman;1:Base.Trousers_Padded;1:Base.Trousers_Police;1:Base.Trousers_Sheriff] mode:destroy,
         }
 
         outputs {
