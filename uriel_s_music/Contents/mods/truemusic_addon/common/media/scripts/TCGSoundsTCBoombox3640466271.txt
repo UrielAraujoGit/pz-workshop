@@ -782,6 +782,57 @@ module Tsarcraft
 
     }
 
+    sound CassetteCanserberoAceptas
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Canserbero - Aceptas.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteCanserberoEsEpico
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Canserbero - Es Epico.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteCanserberoMundodePiedra
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Canserbero - Mundo de Piedra.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteCaravanPalaceLoneDigger
     {
 
@@ -3791,6 +3842,74 @@ module Tsarcraft
 
     }
 
+    sound CassetteLinkinParkIntheEnd
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Linkin Park - In the End.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLinkinParkNumb
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Linkin Park - Numb.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLinkinParkSomewhereIBelong
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Linkin Park - Somewhere I Belong.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteLinkinParkWhatIveDone
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Linkin Park - What I've Done.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteLosAbuelosDeLaNadaMilHoras
     {
 
@@ -4499,6 +4618,40 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Night Club - Show It 2 Me.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteNirvanaComeAsYouAre
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Nirvana - Come As You Are.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteNirvanaSmellsLikeTeenSpirit
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Nirvana - Smells Like Teen Spirit.ogg,
             distanceMax = 75,
 
         }
@@ -6233,6 +6386,23 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Van Halen - Jump.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteVicoCDesahogo
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Vico C - Desahogo.ogg,
             distanceMax = 75,
 
         }
