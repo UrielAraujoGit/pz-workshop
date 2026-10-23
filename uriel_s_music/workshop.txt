@@ -1,6 +1,6 @@
 version=1
 id=3640466271
-title=True Music Addon 1.16: *Uriel's Music*
+title=True Music Addon 1.17: *Uriel's Music*
 description=list of songs https://github.com/UrielAraujoGit/pz-workshop/blob/main/pz-music-raw/list_of_songs.txt
 tags=Build 42
 visibility=unlisted
