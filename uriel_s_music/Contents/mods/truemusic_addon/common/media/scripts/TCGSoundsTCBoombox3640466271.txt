@@ -408,6 +408,23 @@ module Tsarcraft
 
     }
 
+    sound CassetteBellBivDeVoePoison
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Bell Biv DeVoe - Poison.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteBennyBenassiBeautifulPeople
     {
 
@@ -521,6 +538,108 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Billy Joel - Movin' Out (Anthony's Song).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBillyJoelOnlytheGoodDieYoung
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Billy Joel - Only the Good Die Young.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBillyJoelPressure
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Billy Joel - Pressure.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBillyJoelScenesfromanItalianRestaurant
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Billy Joel - Scenes from an Italian Restaurant.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBillyJoelUptownGirl
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Billy Joel - Uptown Girl.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBillyJoelVienna
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Billy Joel - Vienna.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteBillyJoelYoureOnlyHumanSecondWind
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Billy Joel - You're Only Human (Second Wind).ogg,
             distanceMax = 75,
 
         }
@@ -1286,6 +1405,23 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Cutting Crew - (I Just) Died In Your Arms.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteCypisGdziejestbialywegorzZejscie
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Cypis - Gdzie jest bialy wegorz (Zejscie).ogg,
             distanceMax = 75,
 
         }
@@ -2771,6 +2907,23 @@ module Tsarcraft
 
     }
 
+    sound CassetteFourTopsAreYouManEnough
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Four Tops - Are You Man Enough.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteGeorgeThorogoodTheDestroyersBadToTheBone
     {
 
@@ -3043,6 +3196,57 @@ module Tsarcraft
 
     }
 
+    sound CassetteGustavoCeratiAmoDejarteAsi
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gustavo Cerati - Amo Dejarte Asi.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGustavoCeratiAmorAmarillo
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gustavo Cerati - Amor Amarillo.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGustavoCeratiBocanada
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gustavo Cerati - Bocanada.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteGustavoCeratiCosasImposibles
     {
 
@@ -3077,6 +3281,74 @@ module Tsarcraft
 
     }
 
+    sound CassetteGustavoCeratiKaraoke
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gustavo Cerati - Karaoke.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGustavoCeratiLagoenelCielo
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gustavo Cerati - Lago en el Cielo.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGustavoCeratiMeQuedoAqui
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gustavo Cerati - Me Quedo Aqui.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGustavoCeratiPerdonarEsDivino
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gustavo Cerati - Perdonar Es Divino.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteGustavoCeratiPuente
     {
 
@@ -3088,6 +3360,74 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Gustavo Cerati - Puente.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGustavoCeratiTabu
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gustavo Cerati - Tabu.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGustavoCeratiTeLlevoparaQueMeLleves
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gustavo Cerati - Te Llevo para Que Me Lleves.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGustavoCeratiTuCicatrizEnMi
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gustavo Cerati - Tu Cicatriz En Mi.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteGustavoCeratiVivo
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Gustavo Cerati - Vivo.ogg,
             distanceMax = 75,
 
         }
@@ -3275,6 +3615,40 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Jean Tonique - Un reve a deux.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteJeffBuckleyForgetHer
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Jeff Buckley - Forget Her.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteJeffBuckleyLoverYouShouldveComeOver
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Jeff Buckley - Lover You Should've Come Over.ogg,
             distanceMax = 75,
 
         }
@@ -4794,6 +5168,23 @@ module Tsarcraft
 
     }
 
+    sound CassetteMarvinGayeAintNoMountainHighEnough
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Marvin Gaye - Ain't No Mountain High Enough.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteMCHammerUCantTouchThis
     {
 
@@ -4947,6 +5338,23 @@ module Tsarcraft
 
     }
 
+    sound CassetteMichaelJacksonChicago
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Michael Jackson - Chicago.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteMichaelJacksonDontStopTilYouGetEnough
     {
 
@@ -4958,6 +5366,40 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Michael Jackson - Don't Stop 'Til You Get Enough.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMichaelJacksonICantHelpIt
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Michael Jackson - I Can't Help It.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMichaelJacksonLeaveMeAlone
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Michael Jackson - Leave Me Alone.ogg,
             distanceMax = 75,
 
         }
@@ -5015,6 +5457,23 @@ module Tsarcraft
 
     }
 
+    sound CassetteMichaelJacksonSlavetotheRhythm
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Michael Jackson - Slave to the Rhythm.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteMichaelJacksonSmoothCriminal
     {
 
@@ -5060,6 +5519,23 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Michael Sembello - Maniac.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteMikeTheMechanicsTaketheReins
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Mike + The Mechanics - Take the Reins.ogg,
             distanceMax = 75,
 
         }
@@ -5542,6 +6018,91 @@ module Tsarcraft
 
     }
 
+    sound CassettePearlJamAlive
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Pearl Jam - Alive.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassettePearlJamBlack
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Pearl Jam - Black.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassettePearlJamDotheEvolution
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Pearl Jam - Do the Evolution.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassettePearlJamEvenFlow
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Pearl Jam - Even Flow.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassettePearlJamJeremy
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Pearl Jam - Jeremy.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassettePhilFuldnerThatGirl
     {
 
@@ -5893,6 +6454,40 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Queen - We Will Rock You.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteRadioheadExitMusicForAFilm
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Radiohead - Exit Music (For A Film).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteRadioheadNoSurprises
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Radiohead - No Surprises.ogg,
             distanceMax = 75,
 
         }
@@ -6579,6 +7174,74 @@ module Tsarcraft
 
     }
 
+    sound CassetteSodaStereoAngelElectrico
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Angel Electrico.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoCancionAnimal
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Cancion Animal.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoCorazonDelator
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Corazon Delator.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoCuandoPaseElTemblor
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Cuando Pase El Temblor.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteSodaStereoDeMusicaLigera
     {
 
@@ -6590,6 +7253,23 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Soda Stereo - De Musica Ligera.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoDiscoEterno
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Disco Eterno.ogg,
             distanceMax = 75,
 
         }
@@ -6624,6 +7304,91 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Soda Stereo - Entre Canibales.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoEstoyAzulado
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Estoy Azulado.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoGenesis
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Genesis.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoJuegosDeSeduccion
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Juegos De Seduccion.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoLoquesangralacupula
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Lo que sangra (la cupula).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoLunaRoja
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Luna Roja.ogg,
             distanceMax = 75,
 
         }
@@ -6681,6 +7446,23 @@ module Tsarcraft
 
     }
 
+    sound CassetteSodaStereoSignos
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Signos.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteSodaStereoSobredosisdeTV
     {
 
@@ -6698,6 +7480,57 @@ module Tsarcraft
 
     }
 
+    sound CassetteSodaStereoSuelesDejarmeSolo
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Sueles Dejarme Solo.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoTeHacenFaltaVitaminas
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Te Hacen Falta Vitaminas.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoTePara3
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Te Para 3.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteSodaStereoTratameSuavemente
     {
 
@@ -6709,6 +7542,40 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Soda Stereo - Tratame Suavemente.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSodaStereoUnMisilEnMiPlacard
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soda Stereo - Un Misil En Mi Placard.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteSoundgardenBlackHoleSun
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Soundgarden - Black Hole Sun.ogg,
             distanceMax = 75,
 
         }
@@ -6743,6 +7610,40 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Spandau Ballet - True.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteStaindOutside
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Staind - Outside.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteStaindWarmSafePlace
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Staind - Warm Safe Place.ogg,
             distanceMax = 75,
 
         }
@@ -6953,6 +7854,482 @@ module Tsarcraft
 
     }
 
+    sound CassetteTallyHallALady
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - A Lady.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallBananaMan
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Banana Man.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallBeBorn
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Be Born.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallCannibal
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Cannibal.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallFateoftheStars
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Fate of the Stars.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallGoodDay
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Good Day.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallGreener
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Greener.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallHaiku
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Haiku.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallHiddenIntheSand
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Hidden In the Sand.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallHymnforaScarecrow
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Hymn for a Scarecrow.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallJustaFriend
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Just a Friend.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallJustApathy
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Just Apathy.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallMiseryFell
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Misery Fell.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallMuckaBlucka
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Mucka Blucka.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallNeverMeanttoKnow
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Never Meant to Know.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHall
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - &.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallOutintheTwilight
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Out in the Twilight.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallRulerofEverything
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Ruler of Everything.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallSacredBeast
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Sacred Beast.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallSpringandaStorm
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Spring and a Storm.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallTakenforaRide
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Taken for a Ride.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallTheBidding
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - The Bidding.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallTheTrap
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - The Trap.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallTheWholeWorldandYou
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - The Whole World and You.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallTwoWuv
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Two Wuv.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallWhoYouAre
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - Who You Are.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallYouMe
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - You & Me.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTallyHallYou
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/Tally Hall - You.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
     sound CassetteTaylorSwiftLookWhatYouMadeMeDo
     {
 
@@ -6998,6 +8375,40 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/Teddybears - Adagio for TRON (Remixed by Teddybears).ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTheBeatlesHeyJude
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/The Beatles - Hey Jude.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTheBeatlesLetItBe
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/The Beatles - Let It Be.ogg,
             distanceMax = 75,
 
         }
@@ -7321,6 +8732,23 @@ module Tsarcraft
         {
 
             file = media/yourMusic/TCBoombox/TLC - No Scrubs.ogg,
+            distanceMax = 75,
+
+        }
+
+    }
+
+    sound CassetteTOTOGeorgyPorgy
+    {
+
+        category = Entertainment,
+        master = Ambient,
+
+        clip
+
+        {
+
+            file = media/yourMusic/TCBoombox/TOTO - Georgy Porgy.ogg,
             distanceMax = 75,
 
         }
