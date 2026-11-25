@@ -1,16 +1,7 @@
 #!/bin/bash
 
 convertOgg() {
-    local input="$1"
-    output="$OUTPUT_DIR/$(basename "$filename").ogg"
-
-    # Skip if the OGG already exists
-    if [ -f "$output" ]; then
-        echo "Skipping: $i (already converted)"
-        continue
-    fi
-
-    echo "Converting: $i -> $output"
-
-    ffmpeg -i "$i" -vn -c:a libvorbis -q:a 8 -f ogg "$output"
+    local input=$1 output=$2
+    ffmpeg -nostdin -hide_banner -loglevel error -y -i "$input" \
+        -map 0:a:0 -c:a libvorbis -q:a 8 -f ogg "$output"
 }
