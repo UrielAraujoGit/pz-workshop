@@ -6,7 +6,7 @@ module HatModule {
         ItemType        = base:container,
         Weight          = 0.3,
         Icon            = Hat_RusticStraw,
-        CanBeEquipped   = Hat,
+        CanBeEquipped   = base:hat,
         BodyLocation    = base:hat,
         Capacity        = 3,
         WeightReduction = 90,

@@ -7,7 +7,7 @@ module CargoPantsModule {
         DisplayCategory     = Clothing,
         ItemType            = base:container,
         DisplayName         = "Cargo Pants Container(default)",
-        CanBeEquipped       = Pants,
+        CanBeEquipped       = base:pants,
         BodyLocation        = base:pants,
         WeightReduction     = 80,
         Weight              = 0.3,
@@ -30,7 +30,7 @@ module CargoPantsModule {
         Time            = 200,
         inputs {
             item 1 tags[base:sewingneedle] mode:keep flags[MayDegradeLight],
-            item 2 [Basse.Thread] mode:destroy,
+            item 2 [Base.Thread] mode:destroy,
             item 8 [Base.RippedSheets;Base.LeatherStrips;Base.DenimStrips;1:Base.Trousers;1:Base.Ghillie_Trousers;1:Base.Trousers_Denim;1:Base.Trousers_Fireman;1:Base.Trousers_Padded;1:Base.Trousers_Police;1:Base.Trousers_Sheriff] mode:destroy,
         }
 

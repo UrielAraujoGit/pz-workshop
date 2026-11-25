@@ -7,7 +7,7 @@ module CassetteBandolierModule {
         DisplayCategory    = Container,
         ItemType           = base:container,
         Weight             = 0.1,
-        IconsForTexture    = AmmoStrap_Leather,
+        Icon               = AmmoStrap_Leather,
         BodyLocation       = base:ammostrap,
         CanBeEquipped      = base:ammostrap,
         ClothingItem       = AmmoStrap_Brown_Shells,
@@ -32,7 +32,7 @@ module CassetteBandolierModule {
         Time            = 200,
         inputs {
             item 1 tags[base:sewingneedle] mode:keep flags[MayDegradeLight],
-            item 1 [Basse.Thread] mode:destroy,
+            item 1 [Base.Thread] mode:destroy,
             item 3 [Base.RippedSheets;Base.LeatherStrips;Base.DenimStrips;1:Base.AmmoStrap_Shells;1:Base.AmmoStrap_Brown_Shells;1:Base.AmmoStrap_Bullets_308;1:Base.AmmoStrap_Brown_Bullets;1:Base.AmmoStrap_Bullets] mode:destroy,
         }
 

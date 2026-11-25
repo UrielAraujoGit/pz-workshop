@@ -7,8 +7,8 @@ module ToolPalaBeltModule {
         Weight              = 0.3,
         Icon                = tool_pala_belt_icon,
         /* WorldObjectSprite   = tool_pala_belt_sprite, */
-        CanBeEquipped       = Belt,
-        BodyLocation        = Belt,
+        CanBeEquipped       = base:belt,
+        BodyLocation        = base:belt,
         Capacity            = 10,
         WeightReduction     = 90,
         AcceptItemFunction  = ToolPalaBelt,
@@ -42,7 +42,7 @@ module ToolPalaBeltModule {
         category        = Electrical,
         Time            = 100,
         inputs {
-            item 1 tags[base:Screwdriver] mode:keep,
+            item 1 tags[base:screwdriver] mode:keep,
             item 1 tags[base:flashlight],
             item 1 [Base.ElectronicsScrap],
         }
